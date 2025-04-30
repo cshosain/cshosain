@@ -41,7 +41,7 @@
 Here are some projects I’m proud of (more coming soon!):
 
 - 🛒 [ShoeShop E-commerce (Frontend)](https://github.com/cshosain/e-commerce-shoe-shop) – Full e-commerce with searching, filtering, cart, add review-rating updae profile etc.
-- 🛒 [ShoeShop E-commerce (Backend)](https://github.com/cshosain/e-commerce-shoe-shop-backend) – Role based authentication, payment gateway, role based product management.
+- 🛒 [ShoeShop E-commerce (Backend)](https://github.com/cshosain/admin-dashboard-backend) – Role based authentication, payment gateway, role based product management.
 - 🔐 [Authentication System](https://github.com/cshosain/MERN-Authentication-System) – User register/login, forgot password, JWT, OTP via email/phone, protected routes
 - 📊 [Admin Dashboard](https://github.com/cshosain/react-admin-dashboard) – Charts, stats, and role-based access with clean UI
 - 🌐 [Portfolio Website](https://github.com/cshosain/portfolio) – Personal portfolio built with React and Tailwind CSS(currently under development)
