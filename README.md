@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hosain 👋</h1>
 
 <p align="center">
-  🚀 Frontend Developer | 🌐 Aspiring Full-Stack MERN Developer | 💼 Open to Work
+  🚀 Full-Stack MERN Developer | Researcher | 💼 Open to Work
 </p>
 
 ---
