@@ -53,11 +53,13 @@ Here are some projects I’m proud of (more coming soon!):
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cshosain&show_icons=true&theme=react&count_private=true" />
   <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cshosain&theme=react" />
-  <br />
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=cshosain)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cshosain&theme=react" />
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=cshosain" alt="Visitor Badge" />
+</p>
+
 
 ---
 
