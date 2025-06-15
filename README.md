@@ -67,7 +67,7 @@ Here are some projects I’m proud of (more coming soon!):
 
 - 📧 Email: cshosain@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/cshosain)
-- 🌍 [Portfolio Website](https://und-development.com)
+- 🌍 [Portfolio Website](https://cshosain.github.io/dev-portfolio/)
 
 ---
 
