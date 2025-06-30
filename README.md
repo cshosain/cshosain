@@ -40,7 +40,7 @@
 
 Here are some projects I’m proud of (more coming soon!):
 
-- 🛒 [ShoeShop E-commerce (Frontend)](https://github.com/cshosain/e-commerce-shoe-shop) – Full e-commerce app with search, filtering, cart, review & rating, and profile update features.
+- 🛒 [ShoeShop E-commerce (Frontend)](https://e-commerce-shoe-shop.onrender.com) – Full e-commerce app with search, filtering, cart, review & rating, and profile update features.
 - 🛒 [ShoeShop E-commerce (Backend)](https://github.com/cshosain/complete-e-commerce-shoe-shop-backend) – Role based authentication, payment gateway, role based product management.
 - 🔐 [Authentication System](https://user-authentication-frontend-325h.onrender.com/auth) – User register/login, forgot password, JWT, OTP via email/phone, protected routes
 - 📊 [Admin Dashboard](https://github.com/cshosain/react-admin-dashboard) – Charts, stats, and role-based access with clean UI
