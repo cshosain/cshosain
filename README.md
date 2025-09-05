@@ -40,7 +40,7 @@
 
 Here are some projects I’m proud of (more coming soon!):
 
-- 🛒 [MERN Chat-App](https://mern-chat-app-1-xlgz.onrender.com/) – Realtime chatting sent-deliveried-seen report, custom privecy do select who can message, see last seen, medea sharing and much more.
+- 💬 [MERN Chat-App](https://mern-chat-app-1-xlgz.onrender.com/) – Realtime chatting sent-deliveried-seen report, custom privecy do select who can message, see last seen, medea sharing and much more.
 - 🛒 [ShoeShop E-commerce](https://e-commerce-shoe-shop.onrender.com) – Full e-commerce app with search, filtering, cart, review & rating, and profile update features.
 - 🔐 [Authentication System](https://user-authentication-frontend-325h.onrender.com) – User register/login, forgot password, JWT, OTP via email/phone, protected routes
 - 📊 [Admin Dashboard](https://react-admin-dashboard-15sl.onrender.com) – Charts, stats, and role-based access with clean UI
